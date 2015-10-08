@@ -1,0 +1,22 @@
+{
+  "name": "fn_design",
+  "version": "1.0.0",
+  "description": "website to company F&NDesign",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Pablo Suarez",
+  "license": "ISC"
+}
